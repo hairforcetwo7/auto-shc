@@ -4,4 +4,5 @@
 -It will also include the option to find centres for help and Discord servers through which they can seek professional help.
 
 -- hairforcetwo7 1/30/2025
+-- Special thanks to Blazingspear for prompts and responses
 Written in C++, compiled in Xcode.
